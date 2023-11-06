@@ -152,5 +152,7 @@ best.model <- lm(Weight~Height+Width,data=Roach)
 summary(best.model)
 ```
 
+The Best Two regressor model is L3-W.   
+
 ## Final Summary Statements
 
