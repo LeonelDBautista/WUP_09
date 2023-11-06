@@ -117,8 +117,11 @@ best.model <- lm(Weight~Height+Width,data=Pike)
 summary(best.model)
 ```
 
+<<<<<<< HEAD
 The Best Two regressor model is L1-L3.    
 
+=======
+>>>>>>> 9c97ebfd774e9f474d3d9406082b53eb8340b658
 ## Roach
 
 ### Best Models
