@@ -73,6 +73,8 @@ library(car)
 subsets(regsubsets.out,statistic="adjr2",legend="topright",main="Adjusted R^2")
 ```
 
+The Best Two regressor model is H-W, with the best model being H-W.    
+
 ### Best Two regressor model
 
 
