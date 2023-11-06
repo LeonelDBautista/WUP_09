@@ -86,6 +86,11 @@ The Best Two regression Models and the Best Model are the same. H-W is the best 
 
 ## Pike
 
+```{r}
+Pike <- filter(fish, Species=="Pike")
+Pike <- select(Pike, -"Species")
+```
+
 ### Best Models
 
 ### Best Two regressor model
