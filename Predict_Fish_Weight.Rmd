@@ -143,6 +143,7 @@ library(car)
 subsets(regsubsets.out,statistic="adjr2",legend="topright",main="Adjusted R^2")
 ```
 
+The Best Two regressor model is L3-W, with it also being the best overall model, L3-W.   
 
 ### Best Two regressor model
 
