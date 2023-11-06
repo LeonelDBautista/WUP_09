@@ -77,6 +77,10 @@ The Best Two regressor model is H-W, with the best model being H-W.
 
 ### Best Two regressor model
 
+```{r}
+best.model <- lm(Weight~Height+Width,data=Perch)
+summary(best.model)
+```
 
 ## Pike
 
