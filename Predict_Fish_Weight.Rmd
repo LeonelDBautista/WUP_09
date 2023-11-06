@@ -82,6 +82,8 @@ best.model <- lm(Weight~Height+Width,data=Perch)
 summary(best.model)
 ```
 
+The Best Two regression Models and the Best Model are the same. H-W is the best model.   
+
 ## Pike
 
 ### Best Models
